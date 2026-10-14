@@ -1,0 +1,18 @@
+{
+  "star": {
+    "name": "HAT-P-7",
+    "R_star_R_sun": 1.84,
+    "M_star_M_sun": 1.47,
+    "T_eff_K": 6350
+  },
+  "planet": {
+    "name": "HAT-P-7 b",
+    "period_days": 2.205671719294601,
+    "depth": 0.00628,
+    "R_planet_R_jup": 1.418934020578862,
+    "R_planet_R_earth": 15.904804095141815,
+    "a_AU": 0.037705156131595655,
+    "T_eq_K_albedo0": 2139.0235344025414,
+    "T_eq_K_albedo03": 1956.546044641532
+  }
+}

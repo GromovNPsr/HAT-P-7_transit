@@ -1,0 +1,12 @@
+# Тяжёлые данные и промежуточные кадры
+*.fits
+figures/frames/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Мусор ОС/редакторов
+.DS_Store
+Thumbs.db
