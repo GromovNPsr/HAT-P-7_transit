@@ -34,9 +34,10 @@ the transit bottom.
 
 ## Transit animation
 
-`figures/transit_hatp7b.mp4` — one full orbit (12 s at 24 fps); the
-planet crosses the stellar disk for ~1 s, reproducing the dip seen in
-the photometry.
+![Transit animation](figures/transit_hatp7b.gif)
+
+One full orbit (12 s at 24 fps); the planet crosses the stellar disk
+for ~1 s, reproducing the dip seen in the photometry.
 
 ## Repository structure
 
